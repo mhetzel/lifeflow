@@ -1,0 +1,40 @@
+{
+    "menstrual" : {
+        "info" : "hormones at lowest level",
+        "length" : "3-7 days",
+        "mood" : "low energy, reflect, reconnect with self, analize and manifest",
+        "exercise" : "rest, low intensity, walking, yoga, and stretching",
+        "nurish" : "warm and high iron foods",
+        "foods" : "red meat, flax and pumpkin seeds, sea vegetables, peanut butter, bone broth, high-quality proteins, spinach, kale, ginger, red raspberry leaf tea",
+        "avoid" : "fatty foods, alcohol, caffeine, salty foods",
+        "fun" : "o for cramps"
+    },
+    "follicular" : {
+        "info" : "hormones rising, rebuilding lining and hormones",
+        "length" : "7-10 days",
+        "mood" : "dream big, brainstorm, alert, creative, and energized",
+        "exercise" : "cardio & HIIT, cycling, running, swimming, hiking",
+        "nurish" : "whole grain, fermented foods & cruciferous veggeis, fresh fruit and flax seeds",
+        "foods" : "Leafy greens, Citrus, Cruciferous Vegetables, Legumes, Fish, Flax and Pumpkin Seeds, Avocado, Olive Oil, Nettle Leaf Tea, Fermented Foods",
+        "fun" : "massage and snuggle"
+    },
+    "ovulation" : {
+        "info" : "hormones peak, prepare to release egg",
+        "length" : "1 day",
+        "mood" : "socialize, focus, communicate, high activity & productivity",
+        "exercise" : "HIIT, weightlifting, circuit training, boot camps, vinyasa yoga",
+        "nurish" : "whole grain, fermented foods & cruciferous veggeis, fresh fruit and flax seeds",
+        "foods" : "Cruciferous Vegetables, almonds, Bell Peppers, Berries, Tomatoes, Flax and Pumpkin Seeds, Maca, Leafy Greens",
+        "fun" : "go for it"
+    },
+    "luteal" : {
+        "info" : "hormones dip",
+        "length" : "10-14 days",
+        "mood" : "organize, plan, research, slow down & avoid stress",
+        "exercise" : "walking, pilates, yoga, resistance training",
+        "nurish" : "b vitamins, leafy greens quinoa and chocolate, high fiber & cruciferous veggies",
+        "foods" : "Sweet Potatoes, Dark Chocolate, Lentils, Sesame and Sunflower Seeds, Apples, Whole Grains, Squash",
+        "avoid" : "alcohol, carbonated drinks, artificial sweeteners, red meat, dairy, added salt",
+        "fun" : "try new things"
+    }
+}
